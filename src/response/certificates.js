@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:5173";
+const baseUrl = "https://raw.githubusercontent.com/Dedytobing/portofolio-website/main/public";
 
 const certificates = [
   {
