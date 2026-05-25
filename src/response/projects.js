@@ -3,7 +3,7 @@ const baseUrlImages =
   const baseUrVideos =
   "https://res.cloudinary.com/dbpidpvyo/video/upload/q_auto,f_mp4,vc_h264,ac_aac/";
 const baseUrl =
-  "http://localhost:5173/public/assets";
+  "https://raw.githubusercontent.com/Dedytobing/portofolio-website/main/public/assets";
 const githubUrl = "https://github.com/Dedytobing";
 
 const webProjects = [
@@ -16,7 +16,7 @@ const webProjects = [
       `${baseUrl}/icons/react.svg`,
       `${baseUrl}/icons/tailwind.svg`,
     ],
-    repo: `${githubUrl}/`,
+    repo: `${githubUrl}/portofolio-website`,
     link: "",
   },
 

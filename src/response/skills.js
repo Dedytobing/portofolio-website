@@ -1,5 +1,5 @@
 const baseUrl =
-  "http://localhost:5173/";
+  "https://raw.githubusercontent.com/Dedytobing/portofolio-website/";
 
 const languageSkill = [
   {
