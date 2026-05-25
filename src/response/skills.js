@@ -1,5 +1,5 @@
 const baseUrl =
-  "https://raw.githubusercontent.com/Dedytobing/portofolio-website/";
+  "https://raw.githubusercontent.com/Dedytobing/portofolio-website/main";
 
 const languageSkill = [
   {
